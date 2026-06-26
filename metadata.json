@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Product Showcase",
+  "description": "A static product showcase website with inquiry functionality, ready for Cloudflare deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
